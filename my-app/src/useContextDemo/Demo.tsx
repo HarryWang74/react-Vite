@@ -1,4 +1,4 @@
-import { useMessage } from '../context/MessageContext'
+import { useMessage } from './MessageContext'
 import ChildComponent from './ChildComponent'
 
 function Demo() {

@@ -1,4 +1,4 @@
-import { useMessage } from '../context/MessageContext'
+import { useMessage } from './MessageContext'
 
 function GrandChildComponent() {
   const { setMessage } = useMessage()
